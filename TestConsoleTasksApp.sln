@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompressionApp", "..\TestConsoleTasksApp\StringCompressionApp\StringCompressionApp.csproj", "{2C2333A0-8C91-49E3-B14E-E6C6638013BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompressionApp.Tests", "..\TestConsoleTasksApp\StringCompressionAppTests\StringCompressionApp.Tests.csproj", "{6C3D5247-4D4F-4CBE-A301-291EAED346CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompressionApp.Tests", "..\TestConsoleTasksApp\StringCompressionApp.Tests\StringCompressionApp.Tests.csproj", "{6C3D5247-4D4F-4CBE-A301-291EAED346CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassServerApp", "..\TestConsoleTasksApp\StaticClassServerApp\StaticClassServerApp.csproj", "{ABD86D4D-3B50-4ECD-A6FE-B3FDC91BF614}"
 EndProject
