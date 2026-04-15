@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompressionApp", "StringCompressionApp.csproj", "{2C2333A0-8C91-49E3-B14E-E6C6638013BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompressionApp", "..\TestConsoleTasksApp\StringCompressionApp\StringCompressionApp.csproj", "{2C2333A0-8C91-49E3-B14E-E6C6638013BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompressionApp.Tests", "..\StringCompressionAppTests\StringCompressionApp.Tests.csproj", "{6C3D5247-4D4F-4CBE-A301-291EAED346CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompressionApp.Tests", "..\TestConsoleTasksApp\StringCompressionAppTests\StringCompressionApp.Tests.csproj", "{6C3D5247-4D4F-4CBE-A301-291EAED346CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassServerApp", "..\StaticClassServerApp\StaticClassServerApp.csproj", "{ABD86D4D-3B50-4ECD-A6FE-B3FDC91BF614}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassServerApp", "..\TestConsoleTasksApp\StaticClassServerApp\StaticClassServerApp.csproj", "{ABD86D4D-3B50-4ECD-A6FE-B3FDC91BF614}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogStandardizerApp", "..\LogStandardizerApp\LogStandardizerApp.csproj", "{C8C68313-F5D5-4FD2-949A-C20475ACC406}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogStandardizerApp", "..\TestConsoleTasksApp\LogStandardizerApp\LogStandardizerApp.csproj", "{C8C68313-F5D5-4FD2-949A-C20475ACC406}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogStandardizerApp.Tests", "..\LogStandardizerApp.Tests\LogStandardizerApp.Tests.csproj", "{9F688D88-D61A-4963-ADA4-0B2FAF07CB85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogStandardizerApp.Tests", "..\TestConsoleTasksApp\LogStandardizerApp.Tests\LogStandardizerApp.Tests.csproj", "{9F688D88-D61A-4963-ADA4-0B2FAF07CB85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
